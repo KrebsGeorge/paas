@@ -18,3 +18,6 @@ https://github.com/KrebsGeorge/paas/raw/refs/heads/main/arm64/bot13
 
 xray
 
+https://github.com/KrebsGeorge/paas/raw/refs/heads/main/amd64/x/web
+
+https://github.com/KrebsGeorge/paas/raw/refs/heads/main/arm64/x/web
