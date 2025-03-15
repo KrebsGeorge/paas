@@ -1,8 +1,8 @@
 sing-box
 
-https://gitlab.com/kg29/sing-box/-/raw/main/amd/sb
+https://k.okpay.cf/amd/sb
 
-https://gitlab.com/kg29/sing-box/-/raw/main/arm/sb
+https://k.okpay.cf/arm/sb
 
 nezha-agent
 
