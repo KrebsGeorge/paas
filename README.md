@@ -20,4 +20,8 @@ xray
 
 https://raw.githubusercontent.com/KrebsGeorge/paas/refs/heads/main/amd64/x/web
 
+https://raw.githubusercontent.com/KrebsGeorge/paas/refs/heads/main/amd64/x/geoip.dat
+
+https://raw.githubusercontent.com/KrebsGeorge/paas/refs/heads/main/amd64/x/geosite.dat
+
 https://raw.githubusercontent.com/KrebsGeorge/paas/refs/heads/main/arm64/x/web
