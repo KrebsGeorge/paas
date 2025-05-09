@@ -1,8 +1,8 @@
 sing-box
 
-https://k.okpay.cf/amd/sb
+https://wm8.serv00.net/amd/sb
 
-https://k.okpay.cf/arm/sb
+https://wm8.serv00.net/arm/sb
 
 nezha-agent
 
